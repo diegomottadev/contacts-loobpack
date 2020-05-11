@@ -1,0 +1,11 @@
+{
+  "name": "contacts",
+  "connector": "mongodb",
+  "url": "mongodb://localhost:27017/contacts",
+  "host": "localhost",
+  "port": 27017,
+  "user": "",
+  "password": "",
+  "database": "contacts",
+  "useNewUrlParser": true
+}
